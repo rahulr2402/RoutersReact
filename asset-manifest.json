@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rahulr2402.github.io/RoutersReact/static/css/main.e6c13ad2.css",
+    "main.js": "/rahulr2402.github.io/RoutersReact/static/js/main.4a88a388.js",
+    "index.html": "/rahulr2402.github.io/RoutersReact/index.html",
+    "main.e6c13ad2.css.map": "/rahulr2402.github.io/RoutersReact/static/css/main.e6c13ad2.css.map",
+    "main.4a88a388.js.map": "/rahulr2402.github.io/RoutersReact/static/js/main.4a88a388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4a88a388.js"
+  ]
+}
